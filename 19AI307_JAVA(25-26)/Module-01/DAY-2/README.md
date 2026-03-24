@@ -35,8 +35,8 @@ To write a java program to get the user input for temperature and display approp
 ## PROGRAM:
 ```txt
 Program to implement a conditional statement using Java
-Developed by: HARINI A
-RegisterNumber:  212223040056
+Developed by: Hemanth Kumar R
+RegisterNumber:  212223040065
 ```
 ## SOURCE CODE:
 ```java
