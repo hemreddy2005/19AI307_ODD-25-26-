@@ -25,8 +25,8 @@ To write a Java program that reads an array of integers and sorts the elements i
 ## PROGRAM:
 ```txt
 Program to implement an Array concept using Java
-Developed by: HARINI A
-RegisterNumber:  212223040056
+Developed by: Hemanth Kumar R
+RegisterNumber:  212223040065
 ```
 
 ## SOURCE CODE:
