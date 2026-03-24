@@ -7,7 +7,7 @@ Every time a player accesses the master switch, it logs an access count. Since t
 
 Input Format:
 
-n
+n 
 [Player1]
 [Player2]
 ...
